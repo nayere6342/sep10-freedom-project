@@ -1,7 +1,8 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: How Chemistry And Computer Science Can Help The Modern Person
+Nayer Ebraheim 10/23/23
 
-Text
+The cool topic I would like to do for this project is chemistry, because I always wanted to know how chemical elements worked and the science behind it. Also chemistry and computer science have a lot in common like how in this article it states that "The present-day chemist works with far more advanced equipment than mere glass beakers and deals with quite complex processes rather than just mixing the solutions! To study a reaction, today’s chemist routinely uses various kinds of instruments such as spectroscopes/spectrometers (UV, IR, NMR, EPR, XRD, Mass spectrometer, etc.), microscopes (Scanning Electron Microscope, Transmission Electron Microscope, Scanning Tunneling Microscope, Atomic Force Microscope, etc.) and many others. Obviously, not every chemist uses all of these instruments nor does every chemical reaction require all of them. The specific instrument which a chemist uses regularly is determined by the experiments he/she is conducting, and thus, is completely field specific. So, at a first glance, it might seem that there is no other new general instrument/material (like a lab-coat or a glass beaker) which connects all of the new generation chemists. However, if we look a little deeper, we will immediately find that every new generation chemist is connected to one specific instrument – a computer.  This is obviously true from the technological viewpoint because all the new generation chemists operate (or at least, interact with) most of their instruments through a computer, they plot their results using various computer software, they write their research articles on it, etc." Present in this article: ["Chemistry Inside a Computer"](https://www.amrita.edu/news/chemistry-inside-computer/) it shows how chemistry and computer science can be combined together to help the common person with their tasks. Also another way chemistry and computer science can help is in the medical field. CAT scans for instance, they take a picture inside a person using ionizing radiation. The ionizing radiation has to be calculated, if the ionizing radiation is not calculated
+ 
 
 [Next](entry02.md)
 
