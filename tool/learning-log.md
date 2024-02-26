@@ -1,11 +1,12 @@
-# Tool Learning Log
+# *Tool Learning Log:*
 
-Tool: **X**
+Tool: **Wow.js**
 
 ---
 
-X/X/X:
-* Text
+2/26/24:
+* One website I used was https://wowjs.uk/docs this website helped me to understand part of Wow.js that I didn't know. Such as linking to the CSS animation library ``<link rel="stylesheet" href="css/animate.css">`` As well as linking and activate wow.js
+
 
 X/X/X:
 * Text
