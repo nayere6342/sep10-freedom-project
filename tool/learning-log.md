@@ -16,9 +16,9 @@ LL2
 
 * Also, for the process to proceed forward, you need to include adding and initializing it with Java-Script. The method is shown as follows: ``new WOW().int``. For more info use (https://github.com/matthieua/WOW?tab=readme-ov-file) this link can help with better understanding how Wow.js works.
 
-LL3 & LL4
+LL3 & LL4 _(These two learning logs were so short that I put them into one part)_
 
-**3/14/24:**
+(LL3 **3/14/24:**) (LL4 **3/15/24:**)
 
 * One major question I have is, can Wow.js work for other coding languages? A challenge I faced whole doing this project was that, some of the sources I found were out dated or broken links to the websites. Other then that, I believe that's it for Wow.js. As well as how can Wow.js be implemented other things? _(not just websites)_
 
