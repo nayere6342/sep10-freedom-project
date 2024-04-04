@@ -32,7 +32,7 @@ LL5
     CONTENT GOES HERE!!!
 </div>
 ````
-* The article I found this infomation is titled "Making Awesome Animations using Animate.css and Wow.js" at (https://medium.com/codebagng/making-awesome-animations-using-animate-css-and-wow-js-2e9ac4faad75). And this article was really helpful for me because I understood the way everything worked and how to implement this into other places in my website.
+* The article I found this infomation is titled "Making Awesome Animations using Animate.css and Wow.js" at (https://medium.com/codebagng/making-awesome-animations-using-animate-css-and-wow-js-2e9ac4faad75). And this article was really helpful for me because I understood the way everything worked and how to implement this into other places in my website. As well as how to understand 
 
 
 
