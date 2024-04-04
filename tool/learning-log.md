@@ -26,15 +26,20 @@ LL5
 
 **3/27/24:**
 
-* One big thing I have learned in learning log 5 was that, if you wanted to reveal an element. You simply need to add a “wow” class to them, this way, the element will be invisible until you scroll to reveal the section.
+* One big thing I have learned in learning log 5 was that, if you wanted to reveal an element. You simply need to add a “wow” class to them, this way, the element will be invisible until you scroll to reveal the section:
 ````
 <div class="wow">
     CONTENT GOES HERE!!!
 </div>
 ````
 * The article I found this infomation is titled "Making Awesome Animations using Animate.css and Wow.js" at (https://medium.com/codebagng/making-awesome-animations-using-animate-css-and-wow-js-2e9ac4faad75). And this article was really helpful for me because I understood the way everything worked and how to implement this into other places in my website. As well as how to understand Wow.js a bit better.
-* I also learned that, 
-
+* I also learned that, in order to animate you would need the class `wow rubberBand` shown in this:
+````
+<div class="wow rubberBand">
+    ANIMATION GOES HERE!!!
+</div>
+````
+* This is how I learn how to animate using Wow.js and everything in it. This helps my webpages look and feel so mush more better! _(By a lot)_
 
 
 
