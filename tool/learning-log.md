@@ -45,6 +45,8 @@ LL6
 
 **3/5/24**
 
+This learning log was 
+
 
 
 <!--
