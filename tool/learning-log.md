@@ -41,9 +41,9 @@ LL5
 ````
 * This is how I learn how to animate using Wow.js and everything in it. This helps my webpages look and feel so mush more better! _(By a lot)_
 
+LL6
 
-
-
+**3/5/24**
 
 
 
