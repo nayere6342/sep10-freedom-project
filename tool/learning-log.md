@@ -45,8 +45,12 @@ LL6
 
 **3/5/24**
 
-For my final learning log I have decided
-
+For my final learning log I have decided to learn more about how div can work in Wow.js. For example getting a div to fade in for the left would need to use
+````
+<div class="wow rubberBand">
+    ANIMATION GOES HERE!!!
+</div>
+````
 
 
 <!--
