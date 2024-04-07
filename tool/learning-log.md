@@ -45,7 +45,7 @@ LL6
 
 **3/5/24**
 
-For my final learning log I have decided to learn more about how div can work in Wow.js. For example getting a div to fade in for the left would need to use ``<div class="wow fadeInLeft"> TEXT GOES HERE!!! </div>`` In this article titled ""
+For my final learning log I have decided to learn more about how div can work in Wow.js. For example getting a div to fade in for the left would need to use ``<div class="wow fadeInLeft"> TEXT GOES HERE!!! </div>``. In this article titled "Create an animated landing page layout with Wow.js" by applying the class “wow” and the animation class “fadeInLeft” to a element. This can help my website 
 
 <!--
 * Links you used today (websites, videos, etc)
