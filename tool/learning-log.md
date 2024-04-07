@@ -45,7 +45,7 @@ LL6
 
 **3/5/24**
 
-For my final
+For my final learning log I have dis
 
 
 
