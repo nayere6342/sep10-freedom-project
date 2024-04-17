@@ -1,30 +1,19 @@
-# Plan
+# Content
+Topic: X
 
-## Wireframes
-* [Mobile]()
-* [Desktop]()
+## Overview/Introduction/Context
+* Text
+* Text
 
-## Colors
-* `#eb4634`
-* `#4287f5`
-* `#fcba03`
+## Part A: existing technology
+* Tech
+  * Detail
+  * [image text](image URL)
 
-## Fonts
-* [Jersey 10](https://fonts.google.com/specimen/Jersey+10?query=Jersey)
+## Part B: possible future technology
+* Idea
+  * Detail
 
-## Timeline
-
-#### MVP
-
-* navbar 4/17
-* amin 4/18
-* overview 4/19
-
----
-
-#### Beyond MVP
-
-* Task
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
