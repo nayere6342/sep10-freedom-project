@@ -1,12 +1,12 @@
 # Content
-Topic: X
+Topic:
 
 ## Overview/Introduction/Context
 * Text
 * Text
 
 ## Part A: existing technology
-* Tech
+* TechNanopesticides
   * Detail
   * [image text](image URL)
 
