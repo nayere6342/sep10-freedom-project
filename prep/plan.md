@@ -12,7 +12,7 @@
 
 
 ## Fonts
-* [Text](URL)
+* [Jersey](URL)
 
 ## Timeline
 
