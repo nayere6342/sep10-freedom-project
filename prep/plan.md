@@ -5,7 +5,7 @@
 * [Desktop] https://docs.google.com/drawings/d/1IhKDJlBdrkQZmz98WS6Vggl6bWrWvEJfOW12peGX77M/edit https://docs.google.com/drawings/d/13_1v9sP-kMAD21Q3gBme6qZvuKPRlQ1AlESM8DefjEw/edit
 
 ## Colors
-* `#fcba03`
+* `#ed9005`
 * `#32a852`
 * `#0726a3`
 * `#f5e9e9`
