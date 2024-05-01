@@ -11,7 +11,7 @@ For entry six I have decided to talk more about my MVP. First of all, the navbar
           </div>
 
 ```` 
-it helps the the user go to different parts of the pages without scrolling to that part _this will save the user time in the long-run._ Is it user friendly? Yes, by adding this, `id system`. It will help the user get to things faster. Also in my webpage I have added images that help the user better understand what is going on as well as making it user friendly. As shown here: `<center><img id="img" src="https://www.mdpi.com/jcm/jcm-09-03307/article_deploy/html/images/jcm-09-03307-g001.png"` This shows that the image is centered and has the `id` titled `“img”`
+it helps the user go to different parts of the pages without scrolling to that part _this will save the user time in the long-run._ Is it user friendly? Yes, by adding this, `id system`. It will help the user get to things faster. Also in my webpage I have added images that help the user better understand what is going on as well as making it user friendly. As shown here: `<center><img id="img" src="https://www.mdpi.com/jcm/jcm-09-03307/article_deploy/html/images/jcm-09-03307-g001.png"` This shows that the image is centered and has the `id` titled `“img”`
 
 [Previous](entry05.md) | [Next](entry07.md)
 
