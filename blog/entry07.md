@@ -55,15 +55,15 @@ As well as the `div` I stored it in:
 
 ```
 And that’s how I learn `Wow.js` as well as CSS in my website that I have created called “The Chemistry Web”. Some takeaways I have from my experience in the website I made are,
-*- One major problem I had was my `IDE` crashing.
-*- _For some reason, my `IDE` would just crash out of the blue._
-*- _I would lose *ALL* of my progress because of this._
-*- One other takeaway I faced was my github preview breaking up at times.
-*- Also, next time I try this I would have helped myself more.
-*- _I write all of the code by memory._
-*- _The navbar, all the content was made by me._
-*- One last takeaway I have from my experience.
-*- _I procrastinate a lot while making my website._  
+* One major problem I had was my `IDE` crashing.
+* _For some reason, my `IDE` would just crash out of the blue._
+*  _I would lose *ALL* of my progress because of this._
+* One other takeaway I faced was my github preview breaking up at times.
+* Also, next time I try this I would have helped myself more.
+* _I write all of the code by memory._
+* _The navbar, all the content was made by me._
+* One last takeaway I have from my experience.
+* _I procrastinate a lot while making my website._  
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
