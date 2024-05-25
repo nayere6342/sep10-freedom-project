@@ -63,7 +63,11 @@ And that’s how I learn `Wow.js` as well as CSS in my website that I have creat
 * _I write all of the code by memory._
 * _The navbar, all the content was made by me._
 * One last takeaway I have from my experience.
-* _I procrastinate a lot while making my website._  
+* _I procrastinate a lot while making my website._
+
+
+
+
 [Previous](entry06.md) | [Next](entry08.md)
 
 [Home](../README.md)
