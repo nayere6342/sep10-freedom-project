@@ -9,7 +9,7 @@ To start off my entry. I had no issue with my website and `Wow.js`. I already kn
               new WOW().init();
        </script>
 ``` 
-This is for importing `Wow.js` onto the website. Also, along w ith learning `Wow.js`. I was also learning how to put `Wow.js` with CSS. I also used ​​the `Wow.js` documents. 
+This is for importing `Wow.js` onto the website. Also, along with learning `Wow.js`. I was also learning how to put `Wow.js` with CSS. I also used ​​the `Wow.js` documents. 
 (https://wowjs.uk/docs.html) These documents helped me to understand how `Wow.js` works. Here is the CSS code for `Wow.js`:
 ```
        .wow_bounceInUp {
