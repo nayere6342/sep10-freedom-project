@@ -8,9 +8,8 @@ To start off my entry. I had no issue with my website and `Wow.js`. I already kn
                 <script>
               new WOW().init();
        </script>
-
 ``` 
-This is for importing `Wow.js` onto the website. Also, along with learning `Wow.js`. I was also learning how to put `Wow.js` with CSS. I also used ​​the `Wow.js` documents. 
+This is for importing `Wow.js` onto the website. Also, along w ith learning `Wow.js`. I was also learning how to put `Wow.js` with CSS. I also used ​​the `Wow.js` documents. 
 (https://wowjs.uk/docs.html) These documents helped me to understand how `Wow.js` works. Here is the CSS code for `Wow.js`:
 ```
        .wow_bounceInUp {
@@ -38,8 +37,6 @@ This helped me to touch up the images and make them stand out in my website. Thi
     color: #be53db;
     padding: 10px;
 }
-
-
 ```
 As well as the `div` I stored it in:
 ```
@@ -51,21 +48,22 @@ As well as the `div` I stored it in:
     font-size: 30px;
     background-color: #f5e9e9;
 }
-
-
 ```
-And that’s how I learn `Wow.js` as well as CSS in my website that I have created called “The Chemistry Web”. Some takeaways I have from my experience in the website I made are,
-* One major problem I had was my `IDE` crashing.
+And that’s how I learn `Wow.js` as well as CSS in my website that I have created called “The Chemistry Web”. Also this `div` element was from my SEP10 notes. As shown in: (https://docs.google.com/document/d/1B0Lh9JeY5cr0Gssh5PC0k2hgN48OPX1BdBYCWw2PLcc/edit) Also I use some code from other notes. Such as this: (https://docs.google.com/document/d/1r90DNGVzSEj3woCBT2rTvAzVNI6mCDE6GpAPkV34ZHo/edit) Some takeaways I have from my experience in the website I made are,
+* *One major problem I had was my `IDE` crashing.*
 * _For some reason, my `IDE` would just crash out of the blue._
-*  _I would lose *ALL* of my progress because of this._
+* _I would lose *ALL* of my progress because of this._
 * One other takeaway I faced was my github preview breaking up at times.
 * Also, next time I try this I would have helped myself more.
 * _I write all of the code by memory._
 * _The navbar, all the content was made by me._
 * One last takeaway I have from my experience.
 * _I procrastinate a lot while making my website._
-
-
+* *Thing I would have done differently in my class presentation*
+* _How complex I made my slides._
+* _I could have simplified my slides and my website in general._
+* _I also should have been more confident when presenting._
+* _Here is to show how much I had in my slides and in my website: (https://nayere6342.github.io/sep10-freedom-project/) (https://docs.google.com/presentation/d/1qd_A8mtz66rElpSZJjw3Q-pfwigAeW8DRsdY4WNq-Xc/edit#slide=id.g2ddefa7b8ff_0_15)_   
 
 
 [Previous](entry06.md) | [Next](entry08.md)
