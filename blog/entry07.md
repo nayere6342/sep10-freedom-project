@@ -3,7 +3,7 @@ Nayer Ebraheim 5/23/24
 
 To start off my entry. I had no issue with my website and `Wow.js`. I already know how HTML works as well as CSS. But, I had a some-what difficult time working with the `Wow.js` launcher. After some research, I got `Wow.js` to work. Here is the code in action:
 ```
-       <link rel="stylesheet" href="css/animate.css">
+       link rel="stylesheet" href="css/animate.css">
              <script src="js/wow.min.js"></script>
                 <script>
               new WOW().init();
